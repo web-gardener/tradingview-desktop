@@ -4,7 +4,6 @@ Unofficial TradingView Desktop Version built with [Electron](https://www.electro
 
 ![](assets/images/screenshot.png)
 
-[简体中文](README.zh.md)
 
 # Features
 * Block ads
@@ -55,8 +54,3 @@ you need to try the following steps:
   ```
 
 ---
-欢迎加入`交易奇才 Slack 交流群`，让我们一起成为更好的交易者！
-
-![](assets/images/qrcode.jpeg)
-
-> 可扫码关注公众号，并回复：**加群**
